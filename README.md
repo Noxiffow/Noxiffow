@@ -9,7 +9,7 @@ At this moment, I am currently learning how to code, I've had my classes with Ja
 
 I did some weird order to learn things, I came into Git/Github out of curiosity and ended up loving it, and now I will learn how to mod, but I want to have a base so:
 1. JAVA
-2. C#
+2. C# (On going)
 3. PYTHON
 
 As of now I have that in list to learn, its truly a shame that I started off with Git because I know I will forget many things upon stop using it, but it is what it is. I'll have to recall the commands once I'm done.... I need **something** to work on so I can use Github at the end of the day.
