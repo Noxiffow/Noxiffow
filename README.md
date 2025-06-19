@@ -11,7 +11,7 @@
 <p align="left">I am just your average guy who likes coding despite the mental suffering it brings me, love videogames, silence, calm music to help me work/study and I am not a very sociable person in a sense of partying and such. I like my space.
 ###
 
-<p align="left">📚 I'm currently learning Java and Oracle<br>🎯 Goals: Create my own mini project like some silly game.</p>
+<p align="left">📚 I'm currently learning Java and MySQL<br>🎯 Goals: Create my own mini project like some silly game.</p>
 
 ###
 
