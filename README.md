@@ -11,11 +11,11 @@ Si tienes un proyecto técnico concreto, hablemos — si puedo ayudarte, lo hago
 ## Stack
 
 ```
-Backend         Python · FastAPI · PostgreSQL · Docker · Railway
-Automatización  n8n · Workflows · Integraciones
-IA              Groq AI · LLMs · Chatbots conversacionales
-APIs            REST · WhatsApp API · Resend
-Frontend        HTML · CSS · JavaScript
+Lenguajes       Python · JavaScript · Java · C# · SQL · XML
+Backend         FastAPI · PostgreSQL · Docker · Railway
+Automatización  n8n
+Frontend        HTML · CSS
+Herramientas    Git · Linux
 ```
 
 ---
@@ -40,7 +40,7 @@ MVP de CRM para centralizar contactos y conversaciones de WhatsApp. Gestión de 
 
 ## Actualmente
 
-- Terminando el Grado Superior de DAM (2025)
+- Finalizando el Grado Superior de DAM
 - Abriendo camino al freelance con proyectos reales
 - Aprendiendo: Java · arquitectura de sistemas
 
