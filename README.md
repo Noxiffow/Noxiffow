@@ -1,41 +1,49 @@
-<h1 align="left">Hey 👋 How is it going?</h1>
+# Jonathan Neto · Nozu
 
-###
+Desarrollador backend freelance. Construyo chatbots IA, automatizaciones con n8n y APIs REST para negocios que quieren sistemas que funcionen de verdad.
 
-<p align="left">You can call me Otanewi and I'm a junior developer, from Spain</p>
+Si tienes un proyecto técnico concreto, hablemos — si puedo ayudarte, lo hago encantado; si no, te lo digo directamente.
 
-###
+📍 España &nbsp;·&nbsp; 📬 [natescripts@gmail.com](mailto:natescripts@gmail.com) &nbsp;·&nbsp; 🌐 [noxiffow.github.io/nozu](https://noxiffow.github.io/nozu)
 
-<h2 align="left">About me</h2>
+---
 
-<p align="left">I am just your average guy who likes coding despite the mental suffering it brings me, love videogames, silence, calm music to help me work/study and I am not a very sociable person in a sense of partying and such. I like my space.
-###
+## Stack
 
-<p align="left">📚 I'm currently learning Java and MySQL<br>🎯 Goals: Create my own mini project like some silly game.</p>
+```
+Backend         Python · FastAPI · PostgreSQL · Docker · Railway
+Automatización  n8n · Workflows · Integraciones
+IA              Groq AI · LLMs · Chatbots conversacionales
+APIs            REST · WhatsApp API · Resend
+Frontend        HTML · CSS · JavaScript
+```
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## Proyectos
 
-###
+### [ThreadBot — Asistente IA para e-commerce](https://github.com/Noxiffow/threadbot-winowin)
+Chatbot conversacional completo para tienda de ropa. Catálogo interactivo, gestión de pedidos, control de stock y automatizaciones de email con n8n. Panel admin con estadísticas en tiempo real.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-</div>
+`FastAPI` `Groq AI` `n8n` `PostgreSQL` `Docker` `Railway`
 
-###
-<!--
-**Noxiffow/Noxiffow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [Demo en vivo](https://threadbot-winowin-production.up.railway.app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [WhatsApp CRM](https://github.com/Noxiffow/whatsapp-crm)
+MVP de CRM para centralizar contactos y conversaciones de WhatsApp. Gestión de estados y seguimiento de leads.
+
+`Python` `WhatsApp API` `PostgreSQL`
+
+---
+
+## Actualmente
+
+- Terminando el Grado Superior de DAM (2025)
+- Abriendo camino al freelance con proyectos reales
+- Aprendiendo: Java · arquitectura de sistemas
+
+---
+
+*© 2026 Jonathan Neto · Todos los derechos reservados*
