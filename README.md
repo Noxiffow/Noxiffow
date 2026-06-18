@@ -4,7 +4,7 @@ Desarrollador freelance. Construyo webs, chatbots IA, automatizaciones con n8n y
 
 Si tienes un proyecto técnico concreto, hablemos — si puedo ayudarte, lo hago encantado; si no, te lo digo directamente.
 
-📍 España &nbsp;·&nbsp; 📬 [natescripts@gmail.com](mailto:natescripts@gmail.com) &nbsp;·&nbsp; 🌐 [nozutech.dev](https://nozutech.dev)
+📍 España &nbsp;·&nbsp; 📬 [jotadev@nozutech.dev](mailto:jotadev@nozutech.dev) &nbsp;·&nbsp; 🌐 [nozutech.dev](https://nozutech.dev)
 
 ---
 
