@@ -27,8 +27,6 @@ Chatbot conversacional completo para tienda de ropa. Catálogo interactivo, gest
 
 `FastAPI` `Groq AI` `n8n` `PostgreSQL` `Docker` `Railway`
 
-🔗 [Demo en vivo](https://threadbot-winowin-production.up.railway.app)
-
 ---
 
 ### [Portfolio Artista Digital](https://github.com/Noxiffow/syn924-artist-portfolio)
