@@ -1,20 +1,20 @@
-# Jonathan Neto · Nozu
+# Jotadev · NozuTech
 
-Desarrollador backend freelance. Construyo chatbots IA, automatizaciones con n8n y APIs REST para negocios que quieren sistemas que funcionen de verdad.
+Desarrollador freelance. Construyo webs, chatbots IA, automatizaciones con n8n y APIs REST para negocios que quieren sistemas que funcionen de verdad.
 
 Si tienes un proyecto técnico concreto, hablemos — si puedo ayudarte, lo hago encantado; si no, te lo digo directamente.
 
-📍 España &nbsp;·&nbsp; 📬 [natescripts@gmail.com](mailto:natescripts@gmail.com) &nbsp;·&nbsp; 🌐 [noxiffow.github.io/nozu](https://noxiffow.github.io/nozu)
+📍 España &nbsp;·&nbsp; 📬 [natescripts@gmail.com](mailto:natescripts@gmail.com) &nbsp;·&nbsp; 🌐 [nozutech.dev](https://nozutech.dev)
 
 ---
 
 ## Stack
 
 ```
-Lenguajes       Python · JavaScript · Java · C# · SQL · XML
+Lenguajes       Python · JavaScript · TypeScript · SQL
 Backend         FastAPI · PostgreSQL · Docker · Railway
+Frontend        Next.js · React · Astro · CSS
 Automatización  n8n
-Frontend        HTML · CSS
 Herramientas    Git · Linux
 ```
 
@@ -31,18 +31,17 @@ Chatbot conversacional completo para tienda de ropa. Catálogo interactivo, gest
 
 ---
 
-### [WhatsApp CRM](https://github.com/Noxiffow/whatsapp-crm)
-MVP de CRM para centralizar contactos y conversaciones de WhatsApp. Gestión de estados y seguimiento de leads.
+### [Portfolio Artista Digital](https://github.com/Noxiffow/syn924-artist-portfolio)
+Portfolio para ilustrador de personajes digitales. Galería masonry con filtro de contenido, lightbox en desktop y deploy en Vercel.
 
-`Python` `WhatsApp API` `PostgreSQL`
+`Astro` `TypeScript` `CSS` `Vercel`
 
 ---
 
 ## Actualmente
 
-- Finalizando el Grado Superior de DAM
+- Terminando las prácticas del Grado Superior de DAM (notas entregadas)
 - Abriendo camino al freelance con proyectos reales
-- Aprendiendo: Java · arquitectura de sistemas
 
 ---
 
